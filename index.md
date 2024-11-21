@@ -148,9 +148,3 @@ My work has been supported by fellowships and awards from [Funding Body 1] and [
 [16]: //sdslabs.co/
 [17]: //erdos.sdslabs.co/
 [18]: //projecteuler.net/
-[19]: //github.com/abhshkdz/neural-vqa
-[20]: //github.com/abhshkdz/HackFlowy
-[21]: //github.com/abhshkdz/graf
-[22]: //github.com/abhshkdz
-[23]: //twitter.com/abhshkdz
-[24]: //instagram.com/abhshkdz
