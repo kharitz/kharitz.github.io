@@ -43,7 +43,7 @@ my-test-app/
 {
   "name": "Erdos",
   "version": "0.1.0",
-  "author": "Abhishek Das",
+  "author": "Karthik Gopinath",
 
   "devDependencies" : {
     "grunt": "~0.4.0",
