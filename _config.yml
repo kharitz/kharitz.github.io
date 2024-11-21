@@ -1,0 +1,9 @@
+encoding: utf-8
+name: Abhishek Das
+url: http://abhishekdas.com
+author:
+  name: Abhishek Das
+  email: das.abhshk@gmail.com
+description: Research Scientist at Facebook AI Research. Learning to build machines that can see, think, talk and act.
+permalink: /posts/:title/
+include: ['_pages']
