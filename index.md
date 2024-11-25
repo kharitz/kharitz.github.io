@@ -29,44 +29,9 @@ permalink:  /
 
 ## Bio
 
-I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in leveraging **computational biophysics**, **machine learning**, and **deep learning** techniques for studying molecular interactions.
+I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in machine learning techniques for medical image analysis, specifically brain surface analysis. I am supervised by under the supervision of [Prof. Juan Eugenio Iglesias](). I am broadly interested in developing machine learning tools to improve brain image analysis in low-resource settings. Previously, I finished my Ph.D. in Computer Engineering from Ecole de Technolgie Superieure (ETS), Montreal. I was supervised by [Prof. Hervé Lombaert ](https://shape.polymtl.ca/lombaert/)and Prof. Christian Desrosiers. Previously, I obtained my master’s in Electronics & Communication Engineering at International Institute of Information Technology - Hyderabad [(IIIT-H)](http://iiit.ac.in). I worked under the guidence of [Prof. Jayanthi Sivaswamy](http://iiit.ac.in/people/faculty/jsivaswamy/) at Medical Image Processing [(MIP)](http://cvit.iiit.ac.in/projects/mip) group, Centre for Visual Information Technology [(CVIT)](http://cvit.iiit.ac.in), IIIT-H.
 
-Previously, I earned my PhD at [Institution Name], where I focused on **X-ray crystallography** and its applications in structural biology. My research spans computational biology, AI for healthcare, and predictive analytics for molecular simulations.
-
-My work has been supported by fellowships and awards from [Funding Body 1] and [Funding Body 2].
-
-<div class="row" id="timeline-logos">
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="//institution1.edu"><img src="/img/logos/institution1.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            Institution 1<br>
-            2015 - 2017
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="//institution2.edu"><img style="width:120px;" src="/img/logos/institution2.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            Institution 2<br>
-            2017 - 2021
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="//institution3.edu"><img style="width:120px;" src="/img/logos/institution3.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            MGH/Harvard Medical School<br>
-            2021 - Present
-        </div>
-    </div>
-</div>
+[![img](/img/logos/institution1.jpg)](//institution1.edu)
 
 <hr>
 
