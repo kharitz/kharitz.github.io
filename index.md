@@ -3,7 +3,6 @@ layout:     page
 title:      Karthik Gopinath
 permalink:  /
 ---
-
 <div class="row">
     <div class="col-sm-6 col-xs-12">
         <img src="/img/cover.jpg">
@@ -16,21 +15,25 @@ permalink:  /
 </div>
 <hr>
 
-<a name="/news"></a>
+`<a name="/news"></a>`
 
 # News
 
-- [Nov 24] Published an article on [Deep Learning Techniques in Computational Biophysics][paper-1].
-- [Sep 24] Presented research at the [2024 Neural Information Processing Systems Conference][nips24].
-- [May 24] Co-authored a publication in [Nature Communications][nat-comm].
+- [Nov 24] Serving as an Area Chair for [MIDL 2025](https://2025.midl.io/organization) in Utah, USA.
+- [Nov 24] Published an article at Imaging Neuroscience Journal titled [Synthetic data in generalizable, learning-based neuroimaging](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867).
+- [Oct 24] Presented two papers at [MICCAI 2024](https://conferences.miccai.org/2024/en/) workshops in Marrakesh, Morroco.
+- [June 24] Presented work on [Recon-Any](https://surfer.nmr.mgh.harvard.edu/fswiki/ReconAny) at [OHBM 2024](https://ww6.aievolution.com/hbm2401/Abstracts/viewAbs?abs=3954) in Seoul, Korea.
+- [Oct 23] Presented paper titled "*[Cortical Analysis of Heterogeneous Clinical Brain MRI Scans for Large-Scale Neuroimaging Studies](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_4)*" at [MICCAI 2023](https://conferences.miccai.org/2023/en/) in Vancouver, Canada. [Early Acceptance - top 15%]
+- [Aug 23] Gave a talk titled "*Recon-all-clinical: Cortical analysis of heterogeneous clinical brain MRI scans"* at IISc Banglore.
+- [Jan 23] Received [Canada Governor General’s Academic Gold Medal](https://www.gg.ca/en/honours/recipients/116-112129) for Best Graduating student in the University.
 
 <hr>
 
-<a name="/bio"></a>
+`<a name="/bio"></a>`
 
 # Bio
 
-I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in leveraging **computational biophysics**, **machine learning**, and **deep learning** techniques for studying molecular interactions.  
+I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in leveraging **computational biophysics**, **machine learning**, and **deep learning** techniques for studying molecular interactions.
 
 Previously, I earned my PhD at [Institution Name], where I focused on **X-ray crystallography** and its applications in structural biology. My research spans computational biology, AI for healthcare, and predictive analytics for molecular simulations.
 
@@ -71,11 +74,12 @@ My work has been supported by fellowships and awards from [Funding Body 1] and [
 
 <hr>
 
-<a name="/publications"></a>
+`<a name="/publications"></a>`
 
 # Publications
 
-<a name="/example-paper"></a>
+`<a name="/example-paper"></a>`
+
 <h2 class="pubt">Paper Title 1</h2>
 <p class="pubd">
     <span class="authors">Author 1, Author 2, Author 3, Karthik Gopinath</span><br>
@@ -87,7 +91,8 @@ My work has been supported by fellowships and awards from [Funding Body 1] and [
 <img src="/img/publications/example1.jpg">
 <hr>
 
-<a name="/example-paper-2"></a>
+`<a name="/example-paper-2"></a>`
+
 <h2 class="pubt">Paper Title 2</h2>
 <p class="pubd">
     <span class="authors">Author 1, Author 2, Karthik Gopinath</span><br>
@@ -98,7 +103,7 @@ My work has been supported by fellowships and awards from [Funding Body 1] and [
 <img src="/img/publications/example2.jpg">
 <hr>
 
-<a name="/projects"></a>
+`<a name="/projects"></a>`
 
 # Projects
 
@@ -120,6 +125,7 @@ My work has been supported by fellowships and awards from [Funding Body 1] and [
 </div>
 
 <script src="/js/jquery.min.js"></script>
+
 <script type="text/javascript">
     $('ul:gt(0) li:gt(12)').hide();
     $('#read-more-button > a').click(function() {

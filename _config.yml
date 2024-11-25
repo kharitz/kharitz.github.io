@@ -1,9 +1,9 @@
 encoding: utf-8
 name: Karthik Gopinath
-url: http://kharitz.github.io
+url: https://kharitz.github.io
 author:
   name: Karthik Gopinath
   email: karthik.g.haritz@gmail.com
-description: Postdoctoral Research Fellow at MGH & Harvard Medical School. Advancing AI and computational biophysics to unravel molecular interactions.
+description: Postdoctoral Research Fellow at MGH & Harvard Medical School. Advancing AI and Medical Imaging.
 permalink: /posts/:title/
 include: ['_pages']
