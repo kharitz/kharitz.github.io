@@ -5,7 +5,7 @@ permalink:  /
 ---
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/cover.jpg">
+        <img src="/img/karhtik.png">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Postdoctoral Research Fellow<br>
@@ -20,7 +20,7 @@ permalink:  /
 - **[Nov 24]** Serving as an Area Chair for [MIDL 2025](https://2025.midl.io/organization) in Utah, USA.
 - **[Nov 24]** Published an article at Imaging Neuroscience Journal titled [Synthetic data in generalizable, learning-based neuroimaging](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00337/124867).
 - **[Oct 24]** Presented two papers at [MICCAI 2024](https://conferences.miccai.org/2024/en/) workshops in Marrakesh, Morroco.
-- **[June 24]** Presented work on [Recon-Any](https://surfer.nmr.mgh.harvard.edu/fswiki/ReconAny) at [OHBM 2024](https://ww6.aievolution.com/hbm2401/Abstracts/viewAbs?abs=3954) in Seoul, Korea.
+- **[Jun 24]** Presented work on [Recon-Any](https://surfer.nmr.mgh.harvard.edu/fswiki/ReconAny) at [OHBM 2024](https://ww6.aievolution.com/hbm2401/Abstracts/viewAbs?abs=3954) in Seoul, Korea.
 - **[Oct 23]** Presented paper titled "*[Cortical Analysis of Heterogeneous Clinical Brain MRI Scans for Large-Scale Neuroimaging Studies](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_4)*" at [MICCAI 2023](https://conferences.miccai.org/2023/en/) in Vancouver, Canada. [Early Acceptance - top 15%]
 - **[Aug 23]** Gave a talk titled "*Recon-all-clinical: Cortical analysis of heterogeneous clinical brain MRI scans"* at IISc Banglore.
 - **[Jan 23]** Received [Canada Governor General’s Academic Gold Medal](https://www.gg.ca/en/honours/recipients/116-112129) for Best Graduating student in the University.
