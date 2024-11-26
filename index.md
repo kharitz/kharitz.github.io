@@ -5,12 +5,12 @@ permalink:  /
 ---
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/karhtik.png">
+        <img src="/img/karthik.png">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Postdoctoral Research Fellow<br>
         Massachusetts General Hospital (MGH) & Harvard Medical School<br>
-        karthik.g.haritz at gmail dot com
+        karthik dot g dot haritz at gmail dot com
     </div>
 </div>
 <hr>
