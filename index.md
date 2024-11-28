@@ -58,7 +58,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
             2015-2017
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//etsmtl.ca"><img  src="/img/logos/ets.jpg"></a>
