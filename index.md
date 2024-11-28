@@ -41,7 +41,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//bnmit.org"><img  src="/img/logos/bnmit.jpg"></a>
+            <a href="//bnmit.org"><img  style="width:120px;" src="/img/logos/bnmit.jpg"></a>
         </div>
         <div class="logo-desc">
             BNMIT, VTU<br>
@@ -71,7 +71,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//massgeneral.org"><img  src="/img/logos/mgb.jpg"></a>
+            <a target="_blank" href="//massgeneral.org"><img  src="/img/logos/mgb2.jpg"></a>
         </div>
         <div class="logo-desc">
             MGH<br>
