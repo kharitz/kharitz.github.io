@@ -41,7 +41,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//bnmit.org"><img style="width:120px;" src="/img/logos/bnmit.jpg"></a>
+            <a href="//bnmit.org"><img  src="/img/logos/bnmit.jpg"></a>
         </div>
         <div class="logo-desc">
             BNMIT, VTU<br>
@@ -51,7 +51,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iiit.ac.in"><img style="width:120px;" src="/img/logos/iiith.jpg"></a>
+            <a href="//iiit.ac.in"><img  src="/img/logos/iiith.jpg"></a>
         </div>
         <div class="logo-desc">
             IIIT - Hyderabad<br>
@@ -61,7 +61,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//etsmtl.ca"><img style="width:120px;" src="/img/logos/ets.jpg"></a>
+            <a href="//etsmtl.ca"><img  src="/img/logos/ets.jpg"></a>
         </div>
         <div class="logo-desc">
             ETS Montreal<br>
@@ -71,7 +71,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//massgeneral.org"><img style="width:120px;" src="/img/logos/mgb.jpg"></a>
+            <a target="_blank" href="//massgeneral.org"><img  src="/img/logos/mgb.jpg"></a>
         </div>
         <div class="logo-desc">
             MGH<br>
@@ -81,7 +81,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//hms.harvard.edu/"><img style="width:120px;" src="/img/logos/hms.jpg"></a>
+            <a target="_blank" href="//hms.harvard.edu/"><img  src="/img/logos/hms.jpg"></a>
         </div>
         <div class="logo-desc">
             HMS<br>
@@ -91,7 +91,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//martinos.org"><img style="width:120px;" src="/img/logos/martinos.jpg"></a>
+            <a target="_blank" href="//martinos.org"><img  src="/img/logos/martinos.jpg"></a>
         </div>
         <div class="logo-desc">
             Martinos Center<br>
