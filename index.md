@@ -68,14 +68,14 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
             2017 - 2021
         </div>
     </div>
-    <div class="col-xs-2">
+    <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//massgeneral.org"><img style="width:120px;" src="/img/logos/mgb.jpg"></a>
         </div>
         <div class="logo-desc">
             MGH<br>
-            2017 - 2020
+            2022 - Present
         </div>
     </div>
     <div class="col-xs-3">
@@ -84,8 +84,8 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
             <a target="_blank" href="//hms.harvard.edu/"><img style="width:120px;" src="/img/logos/hms.jpg"></a>
         </div>
         <div class="logo-desc">
-            Facebook AI Research<br>
-            S2017, W2018, S2018
+            HMS<br>
+            2022 - Present
         </div>
     </div>
     <div class="col-xs-3">
@@ -94,8 +94,8 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
             <a target="_blank" href="//martinos.org"><img style="width:120px;" src="/img/logos/martinos.jpg"></a>
         </div>
         <div class="logo-desc">
-            DeepMind<br>
-            Winter 2019
+            Martinos Center<br>
+            2022 - Present
         </div>
     </div>
 
