@@ -106,7 +106,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
 
 <a name="/publications"></a>
 
-# Publications
+## Publications
 
 <a name="/synthetic-data-neuroimaging"></a>
 
