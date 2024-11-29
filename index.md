@@ -447,26 +447,6 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
 <img src="/img/publications/automatic-glaucoma-assessment.png">
 <hr>
 
-<a name="/projects"></a>
-
-# Projects
-
-<div class="row">
-    <div class="col-sm-6">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="http://example-project-1.com">Project 1</a></h2>
-        <p class="talkd">
-            A machine learning model designed for the accurate prediction of protein folding mechanisms. Published in [Journal Name][journal].
-            <a target="_blank" href="http://example-project-1.com"><img style="margin-top:10px;" src="/img/projects/project1.jpg"></a>
-        </p>
-    </div>
-    <div class="col-sm-6">
-        <h2 class="talkt" style="font-weight:300;"><a target="_blank" href="http://example-project-2.com">Project 2</a></h2>
-        <p class="talkd">
-            A web-based visualization tool for molecular dynamics simulations, enabling real-time data interaction.
-            <a target="_blank" href="http://example-project-2.com"><img style="margin-top:10px;" src="/img/projects/project2.jpg"></a>
-        </p>
-    </div>
-</div>
 
 <script src="/js/jquery.min.js"></script>
 
