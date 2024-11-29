@@ -71,7 +71,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
     <div class="col-xs-4">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//massgeneral.org"><img  src="/img/logos/mgb2.jpg"></a>
+            <a target="_blank" href="//massgeneral.org"><img  src="/img/logos/mgb.jpg"></a>
         </div>
         <div class="logo-desc">
             MGH<br>
@@ -101,38 +101,316 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
 
 </div>
 
-<hr>
+---
 
-`<a name="/publications"></a>`
+<a name="/publications"></a>
 
 # Publications
 
-`<a name="/example-paper"></a>`
-
-<h2 class="pubt">Paper Title 1</h2>
+<a name="/synthetic-data-neuroimaging"></a>
+<h2 class="pubt">Synthetic data in generalizable, learning-based neuroimaging</h2>
 <p class="pubd">
-    <span class="authors">Author 1, Author 2, Author 3, Karthik Gopinath</span><br>
+    <span class="authors">K Gopinath, A Hoopes, DC Alexander, SE Arnold, Y Balbastre, ...</span><br>
+    <span class="conf">Imaging Neuroscience (2024)</span><br>
     <span class="links">
-        <a target="_blank" href="https://doi.org/example">Paper</a>
-        <a target="_blank" href="https://github.com/example-repo">Code</a>
+        <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/example1.jpg">
+<img src="/img/publications/synthetic-data-neuroimaging.jpg">
 <hr>
 
-`<a name="/example-paper-2"></a>`
-
-<h2 class="pubt">Paper Title 2</h2>
+<a name="/hierarchical-uncertainty-estimation"></a>
+<h2 class="pubt">Hierarchical uncertainty estimation for learning-based registration in neuroimaging</h2>
 <p class="pubd">
-    <span class="authors">Author 1, Author 2, Karthik Gopinath</span><br>
+    <span class="authors">X Hu, K Gopinath, P Liu, M Hoffmann, K Van Leemput, O Puonti, ...</span><br>
+    <span class="conf">arXiv preprint arXiv:2410.09299 (2024)</span><br>
     <span class="links">
-        <a target="_blank" href="https://doi.org/example2">Paper</a>
+        <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/example2.jpg">
+<img src="/img/publications/hierarchical-uncertainty-estimation.jpg">
 <hr>
 
-`<a name="/projects"></a>`
+<a name="/pseudo-rendering-cortical-parcellation"></a>
+<h2 class="pubt">Pseudo-rendering for Resolution and Topology-Invariant Cortical Parcellation</h2>
+<p class="pubd">
+    <span class="authors">PB Fernandez, K Gopinath, J Williams-Ramirez, R Herisse, ...</span><br>
+    <span class="conf">International Workshop on Machine Learning in Medical Imaging (2024)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/pseudo-rendering-cortical-parcellation.jpg">
+<hr>
+
+<a name="/registration-by-regression"></a>
+<h2 class="pubt">Registration by Regression (RbR): a framework for interpretable and flexible atlas registration</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, X Hu, M Hoffmann, O Puonti, JE Iglesias</span><br>
+    <span class="conf">International Workshop on Biomedical Image Registration (2024)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/registration-by-regression.jpg">
+<hr>
+
+<a name="/recon-all-clinical"></a>
+<h2 class="pubt">Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, DN Greve, C Magdamo, S Arnold, S Das, O Puonti, ...</span><br>
+    <span class="conf">arXiv preprint arXiv:2409.03889 (2024)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/recon-all-clinical.jpg">
+<hr>
+
+<a name="/association-brain-mri"></a>
+<h2 class="pubt">Association of brain MRI signatures with Alzheimer Disease CSF biomarkers</h2>
+<p class="pubd">
+    <span class="authors">Y Cheng, K Gopinath, B Billot, JE Iglesias, A Touroutoglou, P Kivisäkk, ...</span><br>
+    <span class="conf">Alzheimer's Association International Conference (2024)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/association-brain-mri.jpg">
+<hr>
+
+<a name="/learning-joint-surface-reconstruction"></a>
+<h2 class="pubt">Learning joint surface reconstruction and segmentation, from brain images to cortical surface parcellation</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">Medical Image Analysis (2023)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/learning-joint-surface-reconstruction.jpg">
+<hr>
+
+<a name="/cortical-analysis-miccai"></a>
+<h2 class="pubt">Cortical analysis of heterogeneous clinical brain MRI scans for large-scale neuroimaging studies</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, DN Greve, S Das, S Arnold, C Magdamo, JE Iglesias</span><br>
+    <span class="conf">MICCAI (2023)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/cortical-analysis-miccai.jpg">
+<hr>
+
+<a name="/benchmarking-geometric-deep-learning"></a>
+<h2 class="pubt">Benchmarking geometric deep learning for cortical segmentation and neurodevelopmental phenotype prediction</h2>
+<p class="pubd">
+    <span class="authors">A Fawaz, LZJ Williams, A Alansary, C Bass, K Gopinath, M da Silva, ...</span><br>
+    <span class="conf">bioRxiv (2021)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/benchmarking-geometric-deep-learning.jpg">
+<hr>
+
+<a name="/seg-recon"></a>
+<h2 class="pubt">SegRecon: Learning Joint Brain Surface Reconstruction and Segmentation from Images</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">MICCAI (2021)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/seg-recon.jpg">
+<hr>
+
+
+<a name="/geometrical-learning"></a>
+<h2 class="pubt">Geometrical learning of brain surface data</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath</span><br>
+    <span class="conf">École de technologie supérieure (2021)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/geometrical-learning.jpg">
+<hr>
+
+<a name="/graph-domain-adaptation"></a>
+<h2 class="pubt">Graph domain adaptation for alignment-invariant brain surface segmentation</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (2020)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/graph-domain-adaptation.jpg">
+<hr>
+
+<a name="/learnable-pooling"></a>
+<h2 class="pubt">Learnable Pooling in Graph Convolution Networks for Brain Surface Analysis</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/learnable-pooling.jpg">
+<hr>
+
+<a name="/spectral-graph-transformer"></a>
+<h2 class="pubt">Spectral Graph Transformer Networks for Brain Surface Parcellation</h2>
+<p class="pubd">
+    <span class="authors">R He, K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">ISBI (2020)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/spectral-graph-transformer.jpg">
+<hr>
+
+<a name="/spectral-embeddings"></a>
+<h2 class="pubt">Graph convolutions on spectral embeddings for cortical surface parcellation</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">Medical Image Analysis (2019)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/spectral-embeddings.jpg">
+<hr>
+
+<a name="/brain-tumor-topological-loss"></a>
+<h2 class="pubt">Brain tumor segmentation using topological loss in convolutional networks</h2>
+<p class="pubd">
+    <span class="authors">C Reddy, K Gopinath, H Lombaert</span><br>
+    <span class="conf">MIDL (2019)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/brain-tumor-topological-loss.jpg">
+<hr>
+
+<a name="/retouch"></a>
+<h2 class="pubt">RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge</h2>
+<p class="pubd">
+    <span class="authors">H Bogunović, F Venhuizen, S Klimscha, S Apostolopoulos, ...</span><br>
+    <span class="conf">IEEE Transactions on Medical Imaging (2019)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/retouch.jpg">
+<hr>
+
+<a name="/cortical-parcellation"></a>
+<h2 class="pubt">Cortical Parcellation via Spectral Graph Convolutions</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">MIDL (2019)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/cortical-parcellation.jpg">
+<hr>
+
+<a name="/adaptive-graph-pooling"></a>
+<h2 class="pubt">Adaptive graph convolution pooling for brain surface analysis</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
+    <span class="conf">IPMI (2019)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/adaptive-graph-pooling.jpg">
+<hr>
+
+<a name="/hyperdense-net"></a>
+<h2 class="pubt">HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation</h2>
+<p class="pubd">
+    <span class="authors">J Dolz, K Gopinath, J Yuan, H Lombaert, C Desrosiers, IB Ayed</span><br>
+    <span class="conf">IEEE Transactions on Medical Imaging (2018)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/hyperdense-net.jpg">
+<hr>
+
+<a name="/segmentation-retinal-cysts"></a>
+<h2 class="pubt">Segmentation of retinal cysts from Optical Coherence Tomography volumes via selective enhancement</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, J Sivaswamy</span><br>
+    <span class="conf">IEEE Journal of Biomedical and Health Informatics (2018)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/segmentation-retinal-cysts.jpg">
+<hr>
+
+<a name="/generalized-motion-pattern"></a>
+<h2 class="pubt">A Generalized Motion Pattern and FCN based approach for retinal fluid detection and segmentation</h2>
+<p class="pubd">
+    <span class="authors">S Yadav, K Gopinath, J Sivaswamy</span><br>
+    <span class="conf">arXiv preprint arXiv:1712.01073 (2017)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/generalized-motion-pattern.jpg">
+<hr>
+
+<a name="/retinal-layers-segmentation"></a>
+<h2 class="pubt">A deep learning framework for segmentation of retinal layers from OCT images</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, SB Rangrej, J Sivaswamy</span><br>
+    <span class="conf">ACPR (2017)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/retinal-layers-segmentation.jpg">
+<hr>
+
+<a name="/domain-knowledge-cyst-segmentation"></a>
+<h2 class="pubt">Domain knowledge assisted cyst segmentation in OCT retinal images</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, J Sivaswamy</span><br>
+    <span class="conf">arXiv preprint arXiv:1612.02675 (2016)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/domain-knowledge-cyst-segmentation.jpg">
+<hr>
+
+<a name="/automatic-glaucoma-assessment"></a>
+<h2 class="pubt">Automatic glaucoma assessment from angio-OCT images</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath, J Sivaswamy, T Mansoori</span><br>
+    <span class="conf">ISBI (2016)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/automatic-glaucoma-assessment.jpg">
+<hr>
+
+
+
+<a name="/projects"></a>
 
 # Projects
 
