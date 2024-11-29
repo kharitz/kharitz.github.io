@@ -33,9 +33,10 @@ permalink:  /
 <hr>
 
 <a name="/bio"></a>
+
 ## Bio
 
-I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in machine learning techniques for medical image analysis, specifically brain surface analysis. I am supervised by under the supervision of [Prof. Juan Eugenio Iglesias](). I am broadly interested in developing machine learning tools to improve brain image analysis in low-resource settings. Previously, I finished my Ph.D. in Computer Engineering from Ecole de Technolgie Superieure (ETS), Montreal. I was supervised by [Prof. Hervé Lombaert ](https://shape.polymtl.ca/lombaert/)and Prof. Christian Desrosiers. Previously, I obtained my master’s in Electronics & Communication Engineering at International Institute of Information Technology - Hyderabad [(IIIT-H)](http://iiit.ac.in). I worked under the guidence of [Prof. Jayanthi Sivaswamy](http://iiit.ac.in/people/faculty/jsivaswamy/) at Medical Image Processing [(MIP)](http://cvit.iiit.ac.in/projects/mip) group, Centre for Visual Information Technology [(CVIT)](http://cvit.iiit.ac.in), IIIT-H.
+I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH)** and **Harvard Medical School**, where I specialize in machine learning techniques for medical image analysis, specifically brain surface analysis. I am supervised by  [Prof. Juan Eugenio Iglesias](). I am broadly interested in developing machine learning tools to improve brain image analysis in low-resource settings. Previously, I finished my Ph.D. in Computer Engineering from Ecole de Technolgie Superieure (ETS), Montreal. I was supervised by [Prof. Hervé Lombaert ](https://shape.polymtl.ca/lombaert/)and Prof. Christian Desrosiers. Previously, I obtained my master’s in Electronics & Communication Engineering at International Institute of Information Technology - Hyderabad [(IIIT-H)](http://iiit.ac.in). I worked under the guidence of [Prof. Jayanthi Sivaswamy](http://iiit.ac.in/people/faculty/jsivaswamy/) at Medical Image Processing [(MIP)](http://cvit.iiit.ac.in/projects/mip) group, Centre for Visual Information Technology [(CVIT)](http://cvit.iiit.ac.in), IIIT-H.
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-4">
@@ -108,6 +109,7 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
 # Publications
 
 <a name="/synthetic-data-neuroimaging"></a>
+
 <h2 class="pubt">Synthetic data in generalizable, learning-based neuroimaging</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, A Hoopes, DC Alexander, SE Arnold, Y Balbastre, ...</span><br>
@@ -116,10 +118,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/synthetic-data-neuroimaging.jpg">
+<img src="/img/publications/synthetic-data-neuroimaging.png">
 <hr>
 
 <a name="/hierarchical-uncertainty-estimation"></a>
+
 <h2 class="pubt">Hierarchical uncertainty estimation for learning-based registration in neuroimaging</h2>
 <p class="pubd">
     <span class="authors">X Hu, K Gopinath, P Liu, M Hoffmann, K Van Leemput, O Puonti, ...</span><br>
@@ -128,10 +131,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/hierarchical-uncertainty-estimation.jpg">
+<img src="/img/publications/hierarchical-uncertainty-estimation.png">
 <hr>
 
 <a name="/pseudo-rendering-cortical-parcellation"></a>
+
 <h2 class="pubt">Pseudo-rendering for Resolution and Topology-Invariant Cortical Parcellation</h2>
 <p class="pubd">
     <span class="authors">PB Fernandez, K Gopinath, J Williams-Ramirez, R Herisse, ...</span><br>
@@ -140,10 +144,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/pseudo-rendering-cortical-parcellation.jpg">
+<img src="/img/publications/pseudo-rendering-cortical-parcellation.png">
 <hr>
 
 <a name="/registration-by-regression"></a>
+
 <h2 class="pubt">Registration by Regression (RbR): a framework for interpretable and flexible atlas registration</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, X Hu, M Hoffmann, O Puonti, JE Iglesias</span><br>
@@ -152,10 +157,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/registration-by-regression.jpg">
+<img src="/img/publications/registration-by-regression.png">
 <hr>
 
 <a name="/recon-all-clinical"></a>
+
 <h2 class="pubt">Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, DN Greve, C Magdamo, S Arnold, S Das, O Puonti, ...</span><br>
@@ -164,10 +170,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/recon-all-clinical.jpg">
+<img src="/img/publications/recon-all-clinical.png">
 <hr>
 
 <a name="/association-brain-mri"></a>
+
 <h2 class="pubt">Association of brain MRI signatures with Alzheimer Disease CSF biomarkers</h2>
 <p class="pubd">
     <span class="authors">Y Cheng, K Gopinath, B Billot, JE Iglesias, A Touroutoglou, P Kivisäkk, ...</span><br>
@@ -176,10 +183,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/association-brain-mri.jpg">
+<img src="/img/publications/association-brain-mri.png">
 <hr>
 
 <a name="/learning-joint-surface-reconstruction"></a>
+
 <h2 class="pubt">Learning joint surface reconstruction and segmentation, from brain images to cortical surface parcellation</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -188,10 +196,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/learning-joint-surface-reconstruction.jpg">
+<img src="/img/publications/learning-joint-surface-reconstruction.png">
 <hr>
 
 <a name="/cortical-analysis-miccai"></a>
+
 <h2 class="pubt">Cortical analysis of heterogeneous clinical brain MRI scans for large-scale neuroimaging studies</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, DN Greve, S Das, S Arnold, C Magdamo, JE Iglesias</span><br>
@@ -200,10 +209,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/cortical-analysis-miccai.jpg">
+<img src="/img/publications/cortical-analysis-miccai.png">
 <hr>
 
 <a name="/benchmarking-geometric-deep-learning"></a>
+
 <h2 class="pubt">Benchmarking geometric deep learning for cortical segmentation and neurodevelopmental phenotype prediction</h2>
 <p class="pubd">
     <span class="authors">A Fawaz, LZJ Williams, A Alansary, C Bass, K Gopinath, M da Silva, ...</span><br>
@@ -212,10 +222,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/benchmarking-geometric-deep-learning.jpg">
+<img src="/img/publications/benchmarking-geometric-deep-learning.png">
 <hr>
 
 <a name="/seg-recon"></a>
+
 <h2 class="pubt">SegRecon: Learning Joint Brain Surface Reconstruction and Segmentation from Images</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -224,11 +235,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/seg-recon.jpg">
+<img src="/img/publications/seg-recon.png">
 <hr>
 
-
 <a name="/geometrical-learning"></a>
+
 <h2 class="pubt">Geometrical learning of brain surface data</h2>
 <p class="pubd">
     <span class="authors">K Gopinath</span><br>
@@ -237,10 +248,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/geometrical-learning.jpg">
+<img src="/img/publications/geometrical-learning.png">
 <hr>
 
 <a name="/graph-domain-adaptation"></a>
+
 <h2 class="pubt">Graph domain adaptation for alignment-invariant brain surface segmentation</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -249,10 +261,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/graph-domain-adaptation.jpg">
+<img src="/img/publications/graph-domain-adaptation.png">
 <hr>
 
 <a name="/learnable-pooling"></a>
+
 <h2 class="pubt">Learnable Pooling in Graph Convolution Networks for Brain Surface Analysis</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -261,10 +274,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/learnable-pooling.jpg">
+<img src="/img/publications/learnable-pooling.png">
 <hr>
 
 <a name="/spectral-graph-transformer"></a>
+
 <h2 class="pubt">Spectral Graph Transformer Networks for Brain Surface Parcellation</h2>
 <p class="pubd">
     <span class="authors">R He, K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -273,10 +287,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/spectral-graph-transformer.jpg">
+<img src="/img/publications/spectral-graph-transformer.png">
 <hr>
 
 <a name="/spectral-embeddings"></a>
+
 <h2 class="pubt">Graph convolutions on spectral embeddings for cortical surface parcellation</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -285,10 +300,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/spectral-embeddings.jpg">
+<img src="/img/publications/spectral-embeddings.png">
 <hr>
 
 <a name="/brain-tumor-topological-loss"></a>
+
 <h2 class="pubt">Brain tumor segmentation using topological loss in convolutional networks</h2>
 <p class="pubd">
     <span class="authors">C Reddy, K Gopinath, H Lombaert</span><br>
@@ -297,10 +313,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/brain-tumor-topological-loss.jpg">
+<img src="/img/publications/brain-tumor-topological-loss.png">
 <hr>
 
 <a name="/retouch"></a>
+
 <h2 class="pubt">RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge</h2>
 <p class="pubd">
     <span class="authors">H Bogunović, F Venhuizen, S Klimscha, S Apostolopoulos, ...</span><br>
@@ -309,10 +326,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/retouch.jpg">
+<img src="/img/publications/retouch.png">
 <hr>
 
 <a name="/cortical-parcellation"></a>
+
 <h2 class="pubt">Cortical Parcellation via Spectral Graph Convolutions</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -321,10 +339,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/cortical-parcellation.jpg">
+<img src="/img/publications/cortical-parcellation.png">
 <hr>
 
 <a name="/adaptive-graph-pooling"></a>
+
 <h2 class="pubt">Adaptive graph convolution pooling for brain surface analysis</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, C Desrosiers, H Lombaert</span><br>
@@ -333,10 +352,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/adaptive-graph-pooling.jpg">
+<img src="/img/publications/adaptive-graph-pooling.png">
 <hr>
 
 <a name="/hyperdense-net"></a>
+
 <h2 class="pubt">HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation</h2>
 <p class="pubd">
     <span class="authors">J Dolz, K Gopinath, J Yuan, H Lombaert, C Desrosiers, IB Ayed</span><br>
@@ -345,10 +365,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/hyperdense-net.jpg">
+<img src="/img/publications/hyperdense-net.png">
 <hr>
 
 <a name="/segmentation-retinal-cysts"></a>
+
 <h2 class="pubt">Segmentation of retinal cysts from Optical Coherence Tomography volumes via selective enhancement</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, J Sivaswamy</span><br>
@@ -357,10 +378,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/segmentation-retinal-cysts.jpg">
+<img src="/img/publications/segmentation-retinal-cysts.png">
 <hr>
 
 <a name="/generalized-motion-pattern"></a>
+
 <h2 class="pubt">A Generalized Motion Pattern and FCN based approach for retinal fluid detection and segmentation</h2>
 <p class="pubd">
     <span class="authors">S Yadav, K Gopinath, J Sivaswamy</span><br>
@@ -369,10 +391,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/generalized-motion-pattern.jpg">
+<img src="/img/publications/generalized-motion-pattern.png">
 <hr>
 
 <a name="/retinal-layers-segmentation"></a>
+
 <h2 class="pubt">A deep learning framework for segmentation of retinal layers from OCT images</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, SB Rangrej, J Sivaswamy</span><br>
@@ -381,10 +404,25 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/retinal-layers-segmentation.jpg">
+<img src="/img/publications/retinal-layers-segmentation.png">
 <hr>
 
+<a name="/OCT-analysis-system"></a>
+
+<h2 class="pubt">A design for an automated Optical Coherence Tomography analysis system</h2>
+<p class="pubd">
+    <span class="authors">K Gopinath</span><br>
+    <span class="conf">International Institute of Information Technology (IIIT) - Hyderabad (2017)</span><br>
+    <span class="links">
+        <a target="_blank" href="#">Paper</a>
+    </span>
+</p>
+<img src="/img/publications/OCT-analysis-system.png">
+<hr>
+
+
 <a name="/domain-knowledge-cyst-segmentation"></a>
+
 <h2 class="pubt">Domain knowledge assisted cyst segmentation in OCT retinal images</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, J Sivaswamy</span><br>
@@ -393,10 +431,11 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/domain-knowledge-cyst-segmentation.jpg">
+<img src="/img/publications/domain-knowledge-cyst-segmentation.png>
 <hr>
 
 <a name="/automatic-glaucoma-assessment"></a>
+
 <h2 class="pubt">Automatic glaucoma assessment from angio-OCT images</h2>
 <p class="pubd">
     <span class="authors">K Gopinath, J Sivaswamy, T Mansoori</span><br>
@@ -405,10 +444,8 @@ I am a **Postdoctoral Research Fellow** at **Massachusetts General Hospital (MGH
         <a target="_blank" href="#">Paper</a>
     </span>
 </p>
-<img src="/img/publications/automatic-glaucoma-assessment.jpg">
+<img src="/img/publications/automatic-glaucoma-assessment.png">
 <hr>
-
-
 
 <a name="/projects"></a>
 
